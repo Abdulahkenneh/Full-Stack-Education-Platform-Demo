@@ -33,7 +33,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Abdulahkenneh/Example-Data-Skills-Academy---Web-Development-and-Platform-Management.git
+    git clone https://github.com/Abdulahkenneh/Example-Data-Skills-Academy---Web-Development-and-Platform-Management.git](https://github.com/Abdulahkenneh/Full-Stack-Education-Platform-Demo.git
     ```
 
 2. **Create a virtual environment**:
