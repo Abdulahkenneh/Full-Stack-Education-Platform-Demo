@@ -209,21 +209,5 @@ Inspired by real-world educational platform requirements
 
 AI integration for personalized learning assistance
 
-text
-
 ---
 
-## Summary of Changes Made
-
-| Item | Before | After |
-|------|--------|-------|
-| **Live demo line** | "No live demo available" | ❌ Removed |
-| **Screenshots** | None | ✅ 8 screenshots with accurate labels |
-| **Call to action** | None | ✅ "Demo available upon request" + email |
-| **Features** | Generic list | ✅ Added AI Chat, Code Editor, Quiz features |
-| **Tech Stack** | Basic | ✅ Added OpenAI API / AI Features |
-| **URL Structure** | Generic | ✅ Added coding problems & editor routes |
-| **Project Structure** | Had `first.c` file | ✅ Cleaned up |
-| **Installation** | Missing OpenAI key | ✅ Added to `.env` example |
-
----
